@@ -105,9 +105,9 @@
             "value": "IVRTK_Demo",
             "margin": "32,944,0,0",
 			      "settings": "HTrack",
-			      "width": 300,
+			      "width": 600,
 			      "height": 60,
-			      "fontsize": 20
+			      "fontsize": 40
 			      },
   {
             "name": "btn12",
@@ -115,21 +115,21 @@
 
             "value": "DxRAnalyticsVisualisation",
 
-            "margin": "336,944,0,0",
+            "margin": "336,1010,0,0",
                               "settings": "HTrack",
 
-                              "width": 300,
+                              "width": 600,
 
                               "height": 60,
 
-                              "fontsize": 20
+                              "fontsize": 40
 
                               },
                   {
             "name": "btn13",
             "content": "QR Workflow Analytics",
             "value": "QRAnalytics",
-            "margin": "32,1050,0,0",
+            "margin": "32,1080,0,0",
                               "settings": "HTrack",
                               "width": 600,
                               "height": 60,
