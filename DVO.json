@@ -106,7 +106,7 @@
             "margin": "32,944,0,0",
 			      "settings": "HTrack",
 			      "width": 600,
-			      "height": 60,
+			      "height": 80,
 			      "fontsize": 40
 			      },
   {
@@ -115,12 +115,12 @@
 
             "value": "DxRAnalyticsVisualisation",
 
-            "margin": "336,1010,0,0",
+            "margin": "32,1010,0,0",
                               "settings": "HTrack",
 
                               "width": 600,
 
-                              "height": 60,
+                              "height": 80,
 
                               "fontsize": 40
 
@@ -129,10 +129,10 @@
             "name": "btn13",
             "content": "QR Workflow Analytics",
             "value": "QRAnalytics",
-            "margin": "32,1080,0,0",
+            "margin": "32,1100,0,0",
                               "settings": "HTrack",
                               "width": 600,
-                              "height": 60,
+                              "height": 80,
                               "fontsize": 40
                               }
 	]
