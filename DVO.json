@@ -3,7 +3,7 @@
             "name": "btn1",
             "content": "Supermarket",
             "value": "Supermarket",
-            "margin": "32,400,0,0",
+            "margin": "32,380,0,0",
 			      "settings": "HTrack",
 			      "width": 600,
 			      "height": 70,
