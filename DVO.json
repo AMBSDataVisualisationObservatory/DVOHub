@@ -135,26 +135,18 @@
                               "height": 70,
                               "fontsize": 40
                               },
-                  {
-            "name": "btn14",
-            "content": "Covid-19",
-            "value": "Covid19Stage3",
-            "margin": "32,990,0,0",
-                              "settings": "HTrack",
-                              "width": 600,
-                              "height": 70,
-                              "fontsize": 40
-                              }
-	,
+                
                   {
             "name": "btn15",
             "content": "Autonomous Car - AI",
             "value": "AIDemo",
-            "margin": "32,1070,0,0",
+	    "margin": "32,990,0,0",
                               "settings": "HTrack",
                               "width": 600,
                               "height": 70,
                               "fontsize": 40
                               }
+
+        
 	]
 }
