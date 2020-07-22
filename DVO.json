@@ -28,23 +28,7 @@
              "fontsize": 60
 
             },
-
-
-
-            {
-
-            "name": "label1",
-
-            "content": "Research Platforms",
-
-            "margin": "32,212,1293,0",
-
-             "height": 74,
-
-             "fontsize": 60
-
-            },
-
+		 
             {
 
             "name": "label2",
