@@ -1,4 +1,82 @@
-{"btns": [
+{
+	 "labels": [
+
+            {
+
+            "name": "label0",
+
+            "content": "Data Visualisation Observatory",
+
+            "margin": "505,68,237,0",
+
+             "height": 120,
+
+             "fontsize": 72
+
+            },
+
+            {
+
+            "name": "label1",
+
+            "content": "Research Platforms",
+
+            "margin": "32,212,1293,0",
+
+             "height": 74,
+
+             "fontsize": 60
+
+            },
+
+
+
+            {
+
+            "name": "label1",
+
+            "content": "Research Platforms",
+
+            "margin": "32,212,1293,0",
+
+             "height": 74,
+
+             "fontsize": 60
+
+            },
+
+            {
+
+            "name": "label2",
+
+            "content": "Immersive Gallery",
+
+            "margin": "654,212,671,0",
+
+             "height": 74,
+
+             "fontsize": 60
+
+            },
+
+            {
+
+            "name": "label3",
+
+            "content": "Demo",
+
+            "margin": "1305,212,20,0",
+
+             "height": 74,
+
+             "fontsize": 60
+
+            }
+
+         ],
+	
+	
+	"btns": [
             {
             "name": "btn1",
             "content": "Supermarket",
@@ -158,4 +236,5 @@
                               }
         
 	]
+
 }
