@@ -210,8 +210,8 @@
                               }
 ,{
             "name": "btn15",
-            "content": "Covid-19",
-            "value": "Covid19InfectionPaths",
+            "content": "Instagram Analytics",
+            "value": "InstagramAnalytics",
             "margin": "32,1070,0,0",
             "settings": "HTrack",
                               "width": 600,
