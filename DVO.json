@@ -223,10 +223,10 @@
             "name": "btn16",
             "content": "Salford Digital Twin",
             "value": "Covid19Optimised",
-            "margin": "1301,837,0,0",
+            "margin": "1301,800,0,0",
 			      "settings": "HTrack",
 			      "width": 600,
-			      "height": 120,
+			      "height": 100,
 			      "fontsize": 40
 			      }
         
