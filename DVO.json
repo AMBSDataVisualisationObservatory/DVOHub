@@ -221,8 +221,8 @@
 		,
 	          {
             "name": "btn16",
-            "content": "Salford Digital Twin",
-            "value": "Covid19Optimised",
+            "content": "GM Digital Twin",
+            "value": "Covid19MSOALSOA",
             "margin": "1301,800,0,0",
 			      "settings": "HTrack",
 			      "width": 600,
