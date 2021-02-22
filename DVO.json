@@ -190,7 +190,7 @@
                   {
             "name": "btn13",
             "content": "QR Workflow Analytics",
-            "value": "QRWorkflow",
+            "value": "QRAnalytics",
             "margin": "32,910,0,0",
                               "settings": "HTrack",
                               "width": 600,
