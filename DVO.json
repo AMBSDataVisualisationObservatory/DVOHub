@@ -200,10 +200,10 @@
                 
                   {
             "name": "btn14",
-            "content": "Street View",
-            "value": "StreetViewDemo",
+            "content": "Autonomous Car - AI",
+            "value": "AIDEMO",
 	    "margin": "32,990,0,0",
-                              "settings": "HTrack",
+                              "settings": "Static",
                               "width": 600,
                               "height": 70,
                               "fontsize": 40
