@@ -21,14 +21,26 @@
 
       "content": "Research Platforms",
 
-      "margin": "300,212,1293,0",
+      "margin": "32,212,1293,0",
 
       "height": 74,
 
       "fontsize": 60
 
     },
+    {
 
+      "name": "label2",
+
+      "content": "Research Analytics",
+
+      "margin": "654,212,671,0",
+
+      "height": 74,
+
+      "fontsize": 60
+
+    },
 
     {
 
@@ -80,39 +92,9 @@
     },
     {
       "name": "btn3",
-      "content": "Flexible Manufacturing \r\n             System",
+      "content": "Flexible Manufacturing Sys.",
       "value": "FlexibleManufacturingSystem",
       "margin": "32,540,0,0",
-      "settings": "HTrack",
-      "width": 600,
-      "height": 120,
-      "fontsize": 40
-    },
-    {
-      "name": "btn10",
-      "content": "Social Network Graph",
-      "value": "NodeGraph_ActiveCSV",
-      "margin": "32,670,0,0",
-      "settings": "HTrack",
-      "width": 600,
-      "height": 70,
-      "fontsize": 40
-    },
-    {
-      "name": "btn11",
-      "content": "Data Analytics",
-      "value": "IVRTK_Demo",
-      "margin": "32,750,0,0",
-      "settings": "HTrack",
-      "width": 600,
-      "height": 70,
-      "fontsize": 40
-    },
-    {
-      "name": "btn12",
-      "content": "DxR Analytics",
-      "value": "DxRLinkedExample",
-      "margin": "32,830,0,0",
       "settings": "HTrack",
       "width": 600,
       "height": 70,
@@ -122,7 +104,7 @@
       "name": "btn14",
       "content": "Autonomous Car - AI",
       "value": "AIDEMO",
-      "margin": "32,910,0,0",
+      "margin": "32,620,0,0",
       "settings": "Static",
       "width": 600,
       "height": 70,
@@ -132,7 +114,7 @@
       "name": "btn18",
       "content": "Manchester Museum",
       "value": "ManchesterMuseum",
-      "margin": "32,990,0,0",
+      "margin": "32,700,0,0",
       "settings": "HTrack",
       "width": 600,
       "height": 70,
@@ -140,11 +122,10 @@
     },
 
 
-
     {
-      "name": "btn13",
-      "content": "QR Workflow Analytics",
-      "value": "QRAnalytics",
+      "name": "btn11",
+      "content": "Exploratory Data Analytics",
+      "value": "IVRTK_Demo",
       "margin": "655,300,0,0",
       "settings": "HTrack",
       "width": 600,
@@ -152,9 +133,9 @@
       "fontsize": 40
     },
     {
-      "name": "btn15",
-      "content": "Instagram Analytics",
-      "value": "InstagramAnalytics",
+      "name": "btn12",
+      "content": "DxR Analytics",
+      "value": "DxRLinkedExample",
       "margin": "655,380,0,0",
       "settings": "HTrack",
       "width": 600,
@@ -162,10 +143,41 @@
       "fontsize": 40
     },
     {
-      "name": "btn17",
-      "content": "Brexit Directors Analysis",
-      "value": "BrexitDirectorNetwork",
+      "name": "btn10",
+      "content": "Social Network Analytics",
+      "value": "NodeGraph_ActiveCSV",
       "margin": "655,460,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
+    {
+      "name": "btn13",
+      "content": "QR Workflow Analytics",
+      "value": "QRAnalytics",
+      "margin": "655,540,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
+
+    {
+      "name": "btn15",
+      "content": "Instagram Analytics",
+      "value": "InstagramAnalytics",
+      "margin": "655,620,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
+    {
+      "name": "btn17",
+      "content": "Brexit Directors Analytics",
+      "value": "BrexitDirectorNetwork",
+      "margin": "655,700,0,0",
       "settings": "HTrack",
       "width": 600,
       "height": 70,
@@ -194,7 +206,7 @@
       "margin": "1301,430,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 120,
+      "height": 70,
       "fontsize": 40
     },
     {
