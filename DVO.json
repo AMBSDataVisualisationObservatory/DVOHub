@@ -67,7 +67,7 @@
       "margin": "32,300,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
     {
@@ -77,7 +77,7 @@
       "margin": "32,400,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
     {
@@ -87,7 +87,7 @@
       "margin": "32,500,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
     {
@@ -97,7 +97,7 @@
       "margin": "32,600,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
     {
@@ -107,7 +107,7 @@
       "margin": "32,700,0,0",
       "settings": "Static",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
     {
@@ -117,7 +117,7 @@
       "margin": "32,800,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
 
