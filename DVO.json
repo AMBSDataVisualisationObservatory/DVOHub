@@ -1,235 +1,233 @@
 {
-	 "labels": [
+  "labels": [
 
-            {
+    {
 
-            "name": "label0",
+      "name": "label0",
 
-            "content": "Data Visualisation Observatory",
+      "content": "Data Visualisation Observatory",
 
-            "margin": "505,68,237,0",
+      "margin": "505,68,237,0",
 
-             "height": 120,
+      "height": 120,
 
-             "fontsize": 72
+      "fontsize": 72
 
-            },
+    },
 
-            {
+    {
 
-            "name": "label1",
+      "name": "label1",
 
-            "content": "Research Platforms",
+      "content": "Research Platforms",
 
-            "margin": "32,212,1293,0",
+      "margin": "300,212,1293,0",
 
-             "height": 74,
+      "height": 74,
 
-             "fontsize": 60
+      "fontsize": 60
 
-            },
-		 
-            {
+    },
 
-            "name": "label2",
 
-            "content": "Immersive Gallery",
+    {
 
-            "margin": "654,212,671,0",
+      "name": "label3",
 
-             "height": 74,
+      "content": "Demo",
 
-             "fontsize": 60
+      "margin": "1305,212,20,0",
 
-            },
+      "height": 74,
 
-            {
+      "fontsize": 60
 
-            "name": "label3",
+    }
 
-            "content": "Demo",
+  ],
 
-            "margin": "1305,212,20,0",
 
-             "height": 74,
+  "btns": [
+    {
+      "name": "btn16",
+      "content": "GM Digital Twin",
+      "value": "Covid19MSOALSOAwithSchools2021Final",
+      "margin": "32,300,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
+    {
+      "name": "btn2",
+      "content": "Manchester Air Pollution",
+      "value": "ManchesterAirPollution",
+      "margin": "32,380,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
+    {
+      "name": "btn1",
+      "content": "Supermarket",
+      "value": "Supermarket",
+      "margin": "32,460,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
+    {
+      "name": "btn3",
+      "content": "Flexible Manufacturing \r\n             System",
+      "value": "FlexibleManufacturingSystem",
+      "margin": "32,540,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 120,
+      "fontsize": 40
+    },
+    {
+      "name": "btn10",
+      "content": "Social Network Graph",
+      "value": "NodeGraph_ActiveCSV",
+      "margin": "32,670,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
+    {
+      "name": "btn11",
+      "content": "Data Analytics",
+      "value": "IVRTK_Demo",
+      "margin": "32,750,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
+    {
+      "name": "btn12",
+      "content": "DxR Analytics",
+      "value": "DxRLinkedExample",
+      "margin": "32,830,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
+    {
+      "name": "btn14",
+      "content": "Autonomous Car - AI",
+      "value": "AIDEMO",
+      "margin": "32,910,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
+    {
+      "name": "btn18",
+      "content": "Manchester Museum",
+      "value": "ManchesterMuseum",
+      "margin": "32,990,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
 
-             "fontsize": 60
 
-            }
 
-         ],
-	
-	
-	"btns": [
-            {
-            "name": "btn1",
-            "content": "Supermarket",
-            "value": "Supermarket",
-            "margin": "32,380,0,0",
-			      "settings": "HTrack",
-			      "width": 600,
-			      "height": 70,
-			      "fontsize": 40
-			      },
-	          {
-            "name": "btn2",
-            "content": "Manchester Air Pollution",
-            "value": "ManchesterAirPollution",
-            "margin": "32,300,0,0",
-			      "settings": "HTrack",
-			      "width": 600,
-			      "height": 70,
-			      "fontsize": 40
-			      },
-	          {
-            "name": "btn3",
-            "content": "Flexible Manufacturing \r\n             System",
-            "value": "FlexibleManufacturingSystem",
-            "margin": "32,460,0,0",
-			      "settings": "HTrack",
-			      "width": 600,
-			      "height": 120,
-			      "fontsize": 40
-			      },
- 	          {
-            "name": "btn4",
-            "content": "International Space \r\n            Station",
-            "value": "ISS Multiview",
-            "margin": "1301,356,0,0",
-			      "settings": "HTrack",
-			      "width": 600,
-			      "height": 120,
-			      "fontsize": 40
-			      },
-	          {
-            "name": "btn5",
-            "content": "Room of Shadows",
-            "value": "Apartment",
-            "margin": "1301,513,0,0",
-			      "settings": "HTrack",
-			      "width": 600,
-			      "height": 120,
-			      "fontsize": 40
-			      },
-	          {
-            "name": "btn6",
-            "content": "Viking Village",
-            "value": "Viking Village",
-            "margin": "1301,675,0,0",
-			      "settings": "HTrack",
-			      "width": 600,
-			      "height": 120,
-			      "fontsize": 40
-			      },
- 	          {
-            "name": "btn7",
-            "content": "Manchester in 1889",
-            "value": "Manchester1889",
-            "margin": "655,441,0,0",
-			      "settings": "Static",
-			      "width": 600,
-			      "height": 120,
-			      "fontsize": 40
-			      },
- 	          {
-            "name": "btn8",
-            "content": "Goat Peak Landscape",
-            "value": "GoatPeakLandscape",
-            "margin": "655,584,0,0",
-			      "settings": "Static",
-			      "width": 600,
-			      "height": 120,
-			      "fontsize": 40
-			      },
-	          {
-            "name": "btn9",
-            "content": "Network Graph 1",
-            "value": "NodeGraph_ActiveXML",
-            "margin": "32,590,0,0",
-			      "settings": "HTrack",
-			      "width": 600,
-			      "height": 70,
-			      "fontsize": 40
-			      },
-	          {
-            "name": "btn10",
-            "content": "Network Graph 2",
-            "value": "NodeGraph_ActiveCSV",
-            "margin": "32,670,0,0",
-			      "settings": "HTrack",
-			      "width": 600,
-			      "height": 70,
-			      "fontsize": 40
-			      },
-	          {
-            "name": "btn11",
-            "content": "Data Analytics",
-            "value": "IVRTK_Demo",
-            "margin": "32,750,0,0",
-			      "settings": "HTrack",
-			      "width": 600,
-			      "height": 70,
-			      "fontsize": 40
-			      },
-  {
-            "name": "btn12",
-            "content": "DxR Analytics",
+    {
+      "name": "btn13",
+      "content": "QR Workflow Analytics",
+      "value": "QRAnalytics",
+      "margin": "655,300,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
+    {
+      "name": "btn15",
+      "content": "Instagram Analytics",
+      "value": "InstagramAnalytics",
+      "margin": "655,380,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
+    {
+      "name": "btn17",
+      "content": "Brexit Directors Analysis",
+      "value": "BrexitDirectorNetwork",
+      "margin": "655,460,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
 
-            "value": "DxRLinkedExample",
 
-            "margin": "32,830,0,0",
-                              "settings": "HTrack",
 
-                              "width": 600,
 
-                              "height": 70,
 
-                              "fontsize": 40
 
-                              },
-                  {
-            "name": "btn13",
-            "content": "QR Workflow Analytics",
-            "value": "QRAnalytics",
-            "margin": "32,910,0,0",
-                              "settings": "HTrack",
-                              "width": 600,
-                              "height": 70,
-                              "fontsize": 40
-                              },
-                
-                  {
-            "name": "btn14",
-            "content": "Autonomous Car - AI",
-            "value": "AIDEMO",
-	    "margin": "32,990,0,0",
-                              "settings": "Static",
-                              "width": 600,
-                              "height": 70,
-                              "fontsize": 40
-                              }
-,{
-            "name": "btn15",
-            "content": "Instagram Analytics",
-            "value": "InstagramAnalytics",
-            "margin": "32,1070,0,0",
-            "settings": "HTrack",
-                              "width": 600,
-                              "height": 70,
-                              "fontsize": 40
-                              }
-		,
-	          {
-            "name": "btn16",
-            "content": "GM Digital Twin",
-            "value": "Covid19MSOALSOAwithSchools2021Final",
-            "margin": "1301,800,0,0",
-			      "settings": "HTrack",
-			      "width": 600,
-			      "height": 100,
-			      "fontsize": 40
-			      }
-        
-	]
+    {
+      "name": "btn4",
+      "content": "International Space \r\n            Station",
+      "value": "ISS Multiview",
+      "margin": "1301,300,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 120,
+      "fontsize": 40
+    },
+    {
+      "name": "btn6",
+      "content": "Viking Village",
+      "value": "Viking Village",
+      "margin": "1301,430,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 120,
+      "fontsize": 40
+    },
+    {
+      "name": "btn5",
+      "content": "Apartment Inspection",
+      "value": "Apartment",
+      "margin": "1301,510,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
+    {
+      "name": "btn7",
+      "content": "Manchester in 1889",
+      "value": "Manchester1889",
+      "margin": "1301,590,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
+    {
+      "name": "btn8",
+      "content": "Goat Peak Landscape",
+      "value": "GoatPeakLandscape",
+      "margin": "1301,670,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    }
+
+  ]
 
 }
