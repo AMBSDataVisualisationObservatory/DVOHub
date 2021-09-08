@@ -32,7 +32,7 @@
 
       "name": "label2",
 
-      "content": "Research Analyticss",
+      "content": "Research Analytics",
 
       "margin": "654,200,671,0",
 
@@ -129,37 +129,37 @@
       "margin": "655,300,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
     {
       "name": "btn12",
       "content": "DxR Analytics",
       "value": "DxRLinkedExample",
-      "margin": "655,380,0,0",
+      "margin": "655,400,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
     {
       "name": "btn10",
       "content": "Social Network Analytics",
       "value": "NodeGraph_ActiveCSV",
-      "margin": "655,460,0,0",
+      "margin": "655,500,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
     {
       "name": "btn13",
       "content": "QR Workflow Analytics",
       "value": "QRAnalytics",
-      "margin": "655,540,0,0",
+      "margin": "655,600,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
 
@@ -167,20 +167,20 @@
       "name": "btn15",
       "content": "Instagram Analytics",
       "value": "InstagramAnalytics",
-      "margin": "655,620,0,0",
+      "margin": "655,700,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
     {
       "name": "btn17",
       "content": "Brexit Directors Analytics",
       "value": "BrexitDirectorNetwork",
-      "margin": "655,700,0,0",
+      "margin": "655,800,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
 
@@ -191,52 +191,52 @@
 
     {
       "name": "btn4",
-      "content": "International Space \r\n            Station",
+      "content": "Int. Space Station",
       "value": "ISS Multiview",
       "margin": "1301,300,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 120,
+      "height": 80,
       "fontsize": 40
     },
     {
       "name": "btn6",
       "content": "Viking Village",
       "value": "Viking Village",
-      "margin": "1301,430,0,0",
+      "margin": "1301,400,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
     {
       "name": "btn5",
       "content": "Apartment Inspection",
       "value": "Apartment",
-      "margin": "1301,510,0,0",
+      "margin": "1301,500,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
     {
       "name": "btn7",
       "content": "Manchester in 1889",
       "value": "Manchester1889",
-      "margin": "1301,590,0,0",
+      "margin": "1301,600,0,0",
       "settings": "Static",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     },
     {
       "name": "btn8",
       "content": "Goat Peak Landscape",
       "value": "GoatPeakLandscape",
-      "margin": "1301,670,0,0",
+      "margin": "1301,700,0,0",
       "settings": "Static",
       "width": 600,
-      "height": 70,
+      "height": 80,
       "fontsize": 40
     }
 
