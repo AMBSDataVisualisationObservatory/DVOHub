@@ -120,6 +120,16 @@
       "height": 85,
       "fontsize": 40
     },
+    {
+      "name": "btn7",
+      "content": "Manchester Ordnance Survey",
+      "value": "",
+      "margin": "32,900,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
 
 
     {
