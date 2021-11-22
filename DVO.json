@@ -62,8 +62,8 @@
   "btns": [
     {
       "name": "btn1",
-      "content": "GM Digital Twin",
-      "value": "Covid19MSOALSOAwithSchools2021Final",
+      "content": "Manchester Digital Twin",
+      "value": "MANDigitalTwin_OS_Covid19",
       "margin": "32,300,0,0",
       "settings": "HTrack",
       "width": 600,
@@ -72,8 +72,8 @@
     },
     {
       "name": "btn2",
-      "content": "Manchester Air Pollution",
-      "value": "ManchesterAirPollution",
+      "content": "OpenStreetMap Digital Twin",
+      "value": "Covid19MSOALSOAwithSchools2021Final",
       "margin": "32,400,0,0",
       "settings": "HTrack",
       "width": 600,
@@ -122,8 +122,8 @@
     },
     {
       "name": "btn7",
-      "content": "Manchester Ordnance Survey",
-      "value": "Manchester_OS_Map2021",
+      "content": "Manchester Air Pollution",
+      "value": "ManchesterAirPollution",
       "margin": "32,900,0,0",
       "settings": "HTrack",
       "width": 600,
