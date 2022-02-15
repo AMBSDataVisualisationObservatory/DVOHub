@@ -1,0 +1,255 @@
+{
+  "labels": [
+
+    {
+
+      "name": "label0",
+
+      "content": "Data Visualisation Observatory",
+
+      "margin": "505,68,237,0",
+
+      "height": 120,
+
+      "fontsize": 72
+
+    },
+
+    {
+
+      "name": "label1",
+
+      "content": "Research Platforms",
+
+      "margin": "32,200,1293,0",
+
+      "height": 74,
+
+      "fontsize": 60
+
+    },
+    {
+
+      "name": "label2",
+
+      "content": "Research Analytics",
+
+      "margin": "654,200,671,0",
+
+      "height": 74,
+
+      "fontsize": 60
+
+    },
+
+    {
+
+      "name": "label3",
+
+      "content": "Demo",
+
+      "margin": "1305,200,20,0",
+
+      "height": 74,
+
+      "fontsize": 60
+
+    }
+
+  ],
+
+
+  "btns": [
+    {
+      "name": "btn1",
+      "content": "Manchester Digital Twin",
+      "value": "MANDigitalTwin_OS_Covid19",
+      "margin": "32,300,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn2",
+      "content": "OpenStreetMap Digital Twin",
+      "value": "Covid19MSOALSOAwithSchools2021Final",
+      "margin": "32,400,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn3",
+      "content": "Supermarket",
+      "value": "SupermarketDemo",
+      "margin": "32,500,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn4",
+      "content": "Flexible Manufacturing Sys.",
+      "value": "FlexibleManufacturingSystem",
+      "margin": "32,600,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn5",
+      "content": "Autonomous Car - AI",
+      "value": "AIDEMO",
+      "margin": "32,700,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn6",
+      "content": "Manchester Museum",
+      "value": "ManchesterMuseum",
+      "margin": "32,800,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn7",
+      "content": "Manchester Air Pollution",
+      "value": "ManchesterAirPollution",
+      "margin": "32,900,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+
+
+    {
+      "name": "btn101",
+      "content": "Exploratory Data Analytics",
+      "value": "IVRTK_Demo",
+      "margin": "655,300,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn102",
+      "content": "DxR Analytics",
+      "value": "DxRLinkedExample",
+      "margin": "655,400,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn103",
+      "content": "Social Network Analytics",
+      "value": "NodeGraph_ActiveCSV",
+      "margin": "655,500,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn104",
+      "content": "QR Workflow Analytics",
+      "value": "QRAnalytics",
+      "margin": "655,600,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+
+    {
+      "name": "btn105",
+      "content": "Instagram Analytics",
+      "value": "InstagramAnalytics",
+      "margin": "655,700,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn106",
+      "content": "Brexit Directors Analytics",
+      "value": "BrexitDirectorNetworkDemo",
+      "margin": "655,800,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+
+
+
+
+
+
+    {
+      "name": "btn201",
+      "content": "Int. Space Station",
+      "value": "ISS Multiview",
+      "margin": "1301,300,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn202",
+      "content": "Viking Village",
+      "value": "Viking Village",
+      "margin": "1301,400,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn203",
+      "content": "Apartment Inspection",
+      "value": "Apartment",
+      "margin": "1301,500,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn204",
+      "content": "Manchester in 1889",
+      "value": "Manchester1889",
+      "margin": "1301,600,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn205",
+      "content": "Goat Peak Landscape",
+      "value": "GoatPeakLandscape",
+      "margin": "1301,700,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    }
+
+  ]
+
+}
