@@ -83,12 +83,13 @@
     {
       "name": "btn3",
       "content": "Supermarket",
-      "value": "SupermarketV2022",
+      "value": "SupermarketDemo",
       "margin": "32,500,0,0",
       "settings": "HTrack",
       "width": 600,
       "height": 85,
       "fontsize": 40
+      "SupermarketV2022":"d"
     },
     {
       "name": "btn4",
