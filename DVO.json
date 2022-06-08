@@ -131,6 +131,17 @@
       "height": 85,
       "fontsize": 40
     },
+    {
+      "name": "btn8",
+      "content": "Gift Store",
+      "value": "Supermarket_EXP2",
+      "margin": "32,1000,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+      
+    },
 
 
     {
