@@ -243,19 +243,29 @@
     },
     {
       "name": "btn204",
-      "content": "Manchester in 1889",
-      "value": "Manchester1889",
+      "content": "Operating Theatre",
+      "value": "Operating_Theatre",
       "margin": "1301,600,0,0",
-      "settings": "Static",
+      "settings": "HTrack",
       "width": 600,
       "height": 85,
       "fontsize": 40
     },
     {
       "name": "btn205",
+      "content": "Manchester in 1889",
+      "value": "Manchester1889",
+      "margin": "1301,700,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+    },
+    {
+      "name": "btn206",
       "content": "Goat Peak Landscape",
       "value": "GoatPeakLandscape",
-      "margin": "1301,700,0,0",
+      "margin": "1301,800,0,0",
       "settings": "Static",
       "width": 600,
       "height": 85,
