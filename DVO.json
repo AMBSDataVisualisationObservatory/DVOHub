@@ -142,7 +142,23 @@
       "fontsize": 40
       
     },
+    {
+      "name": "btn9",
+      "content": "ITMB QR Scanner",
+      "value": "QRMapAnalytics",
+      "margin": "32,1100,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 85,
+      "fontsize": 40
+      
+    },
+    
 
+    
+    
+    
+    
 
     {
       "name": "btn101",
