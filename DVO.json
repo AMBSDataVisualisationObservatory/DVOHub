@@ -74,7 +74,7 @@
       "name": "btn2",
       "content": "OpenStreetMap Digital Twin",
       "value": "Covid19MSOALSOAwithSchools2021Final",
-      "margin": "32,370,0,0",
+      "margin": "32,350,0,0",
       "settings": "HTrack",
       "width": 600,
       "height": 70,
@@ -84,10 +84,10 @@
       "name": "btn3",
       "content": "Supermarket",
       "value": "SupermarketV2022",
-      "margin": "32,470,0,0",
+      "margin": "32,430,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 85,
+      "height": 70,
       "fontsize": 40
       
     },
