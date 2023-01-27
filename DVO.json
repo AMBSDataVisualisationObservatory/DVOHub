@@ -144,7 +144,7 @@
     },
     {
       "name": "btn9",
-      "content": "ITMB QR Scanner",
+      "content": "GEO QR Scanner",
       "value": "QRMapAnalytics",
       "margin": "32,1100,0,0",
       "settings": "Static",
