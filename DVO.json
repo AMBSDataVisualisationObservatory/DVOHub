@@ -21,7 +21,7 @@
 
       "content": "Research Platforms",
 
-      "margin": "32,200,1293,0",
+      "margin": "32,170,1293,0",
 
       "height": 74,
 
@@ -34,7 +34,7 @@
 
       "content": "Research Analytics",
 
-      "margin": "654,200,671,0",
+      "margin": "654,170,671,0",
 
       "height": 74,
 
@@ -48,7 +48,7 @@
 
       "content": "Demo",
 
-      "margin": "1305,200,20,0",
+      "margin": "1305,170,20,0",
 
       "height": 74,
 
@@ -64,7 +64,7 @@
       "name": "btn1",
       "content": "Manchester Digital Twin",
       "value": "MANDigitalTwin_OS_Covid19",
-      "margin": "32,300,0,0",
+      "margin": "32,250,0,0",
       "settings": "Static",
       "width": 600,
       "height": 85,
@@ -74,7 +74,7 @@
       "name": "btn2",
       "content": "OpenStreetMap Digital Twin",
       "value": "Covid19MSOALSOAwithSchools2021Final",
-      "margin": "32,400,0,0",
+      "margin": "32,350,0,0",
       "settings": "HTrack",
       "width": 600,
       "height": 85,
