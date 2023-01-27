@@ -72,7 +72,7 @@
     },
     {
       "name": "btn2",
-      "content": "OpenStreetMap Digital TWIN",
+      "content": "OpenStreetMap Digital Twin",
       "value": "Covid19MSOALSOAwithSchools2021Final",
       "margin": "32,350,0,0",
       "settings": "HTrack",
@@ -95,50 +95,50 @@
       "name": "btn4",
       "content": "Flexible Manufacturing Sys.",
       "value": "FlexibleManufacturingSystem",
-      "margin": "32,570,0,0",
+      "margin": "32,510,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 85,
+      "height": 70,
       "fontsize": 40
     },
     {
       "name": "btn5",
       "content": "Autonomous Car - AI",
       "value": "AIDEMO",
-      "margin": "32,670,0,0",
+      "margin": "32,590,0,0",
       "settings": "Static",
       "width": 600,
-      "height": 85,
+      "height": 70,
       "fontsize": 40
     },
     {
       "name": "btn6",
       "content": "Manchester Museum",
       "value": "ManchesterMuseum",
-      "margin": "32,770,0,0",
+      "margin": "32,670,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 85,
+      "height": 70,
       "fontsize": 40
     },
     {
       "name": "btn7",
       "content": "Manchester Air Pollution",
       "value": "ManchesterAirPollution",
-      "margin": "32,870,0,0",
+      "margin": "32,750,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 85,
+      "height": 70,
       "fontsize": 40
     },
     {
       "name": "btn8",
       "content": "Flower Gift Shopping",
       "value": "Supermarket_EXP2",
-      "margin": "32,970,0,0",
+      "margin": "32,830,0,0",
       "settings": "HTrack",
       "width": 600,
-      "height": 85,
+      "height": 70,
       "fontsize": 40
       
     },
@@ -146,10 +146,10 @@
       "name": "btn9",
       "content": "GEO QR Scanner",
       "value": "QRMapAnalytics",
-      "margin": "32,1070,0,0",
+      "margin": "32,910,0,0",
       "settings": "Static",
       "width": 600,
-      "height": 85,
+      "height": 70,
       "fontsize": 40
       
     },
