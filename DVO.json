@@ -220,6 +220,16 @@
       "height": 70,
       "fontsize": 40
     },
+    {
+      "name": "btn107",
+      "content": "World Population",
+      "value": "DXRWorldPopulation",
+      "margin": "665,750,0,0",
+      "settings": "HTrack",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
 
 
 
