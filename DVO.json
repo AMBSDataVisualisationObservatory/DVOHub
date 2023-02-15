@@ -269,7 +269,7 @@
     {
       "name": "btn203",
       "content": "Apartment Inspection",
-      "value": "NaoApartment",
+      "value": "Apartment",
       "margin": "1301,430,0,0",
       "settings": "HTrack",
       "width": 600,
