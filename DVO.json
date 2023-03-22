@@ -194,7 +194,7 @@
       "content": "Social Network Analytics",
       "value": "NodeGraph_ActiveCSV",
       "margin": "655,430,0,0",
-      "settings": "HTrack",
+      "settings": "Static",
       "width": 600,
       "height": 70,
       "fontsize": 40
@@ -215,7 +215,7 @@
       "content": "Instagram Analytics",
       "value": "InstagramAnalytics",
       "margin": "655,590,0,0",
-      "settings": "HTrack",
+      "settings": "Static",
       "width": 600,
       "height": 70,
       "fontsize": 40
