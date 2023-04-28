@@ -157,7 +157,7 @@
       "content": "BT Apartment",
       "value": "ApartmentBT",
       "margin": "32,990,0,0",
-      "settings": "Static",
+      "settings": "HTrack",
       "width": 600,
       "height": 70,
       "fontsize": 40
