@@ -225,7 +225,7 @@
       "content": "Brexit Directors Analytics",
       "value": "BrexitDirectorNetworkDemo",
       "margin": "655,670,0,0",
-      "settings": "HTrack",
+      "settings": "Static",
       "width": 600,
       "height": 70,
       "fontsize": 40
