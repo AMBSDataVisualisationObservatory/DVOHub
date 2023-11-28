@@ -163,17 +163,6 @@
       "fontsize": 40
       
     },
-    {
-      "name": "btn11",
-      "content": "Player Performance",
-      "value": "PlayerPerformanceV3",
-      "margin": "32,1070,0,0",
-      "settings": "Static",
-      "width": 600,
-      "height": 70,
-      "fontsize": 40
-      
-    },
 
     
     
