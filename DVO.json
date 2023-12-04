@@ -289,7 +289,7 @@
     {
       "name": "btn205",
       "content": "Hospital Ward",
-      "value": "ICU",
+      "value": "ICUDemoV4",
       "margin": "1301,590,0,0",
       "settings": "HTrack",
       "width": 600,
