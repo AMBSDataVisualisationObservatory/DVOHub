@@ -319,10 +319,10 @@
     }
     ,
     {
-      "name": "btn208",
+      "name": "btn108",
       "content": "Player Performance",
       "value": "PlayerPerformanceV5",
-      "margin": "1301,830,0,0",
+      "margin": "665,830,0,0",
       "settings": "Static",
       "width": 600,
       "height": 70,
