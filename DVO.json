@@ -317,17 +317,7 @@
       "height": 70,
       "fontsize": 40
     }
-    ,
-    {
-      "name": "btn108",
-      "content": "Player Performance",
-      "value": "PlayerPerformanceV5",
-      "margin": "665,830,0,0",
-      "settings": "Static",
-      "width": 600,
-      "height": 70,
-      "fontsize": 40
-    }
+   
 
   ]
 
