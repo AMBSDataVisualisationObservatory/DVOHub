@@ -164,11 +164,6 @@
       
     },
 
-    
-    
-    
-    
-
     {
       "name": "btn101",
       "content": "Exploratory Data Analytics",
@@ -244,7 +239,7 @@
       "name": "btn108",
       "content": "UoM Campus",
       "value": "MANUni200",
-      "margin": "665,850,0,0",
+      "margin": "665,830,0,0",
       "settings": "Static",
       "width": 600,
       "height": 70,
