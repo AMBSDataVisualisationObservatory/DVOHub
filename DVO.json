@@ -240,11 +240,16 @@
       "height": 70,
       "fontsize": 40
     },
-
-
-
-
-
+    {
+      "name": "btn108",
+      "content": "UoM Campus",
+      "value": "MANUni200",
+      "margin": "665,850,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
 
     {
       "name": "btn201",
