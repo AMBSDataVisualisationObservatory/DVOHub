@@ -163,7 +163,16 @@
       "fontsize": 40
       
     },
-
+    {
+      "name": "btn11",
+      "content": "UoM Campus",
+      "value": "MANUni200",
+      "margin": "32,1070,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
     {
       "name": "btn101",
       "content": "Exploratory Data Analytics",
@@ -237,19 +246,9 @@
     },
     {
       "name": "btn108",
-      "content": "UoM Campus",
-      "value": "MANUni200",
-      "margin": "665,830,0,0",
-      "settings": "Static",
-      "width": 600,
-      "height": 70,
-      "fontsize": 40
-    },
-    {
-      "name": "btn109",
       "content": "I See You",
       "value": "ICUDemoV12",
-      "margin": "665,910,0,0",
+      "margin": "665,830,0,0",
       "settings": "Static",
       "width": 600,
       "height": 70,
@@ -311,7 +310,7 @@
       "content": "Manufacturing Plant",
       "value": "FactorySimulation",
       "margin": "1301,670,0,0",
-      "settings": "Static",
+      "settings": "HTrack",
       "width": 600,
       "height": 70,
       "fontsize": 40
