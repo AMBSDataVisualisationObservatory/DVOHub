@@ -245,6 +245,16 @@
       "height": 70,
       "fontsize": 40
     },
+    {
+      "name": "btn109",
+      "content": "I See You",
+      "value": "ICUDemoV12",
+      "margin": "665,910,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+    },
 
     {
       "name": "btn201",
@@ -298,19 +308,18 @@
     },
     {
       "name": "btn206",
-      "content": "Manchester in 1889",
-      "value": "Manchester1889",
+      "content": "Factory Tour",
+      "value": "FactorySimulation",
       "margin": "1301,670,0,0",
       "settings": "Static",
       "width": 600,
       "height": 70,
       "fontsize": 40
-    }
-    ,
+    },
     {
       "name": "btn207",
-      "content": "I See You",
-      "value": "ICUDemoV12",
+      "content": "Manchester in 1889",
+      "value": "Manchester1889",
       "margin": "1301,750,0,0",
       "settings": "Static",
       "width": 600,
