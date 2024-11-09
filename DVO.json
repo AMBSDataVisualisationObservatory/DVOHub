@@ -71,10 +71,10 @@
     },
     {
       "name": "btn2",
-      "content": "OpenStreetMap Digital Twin",
-      "value": "Covid19MSOALSOAwithSchools2021Final",
+      "content": "Manchester Air Pollution",
+      "value": "ManchesterAirPollution",
       "margin": "32,350,0,0",
-      "settings": "HTrack",
+      "settings": "Static",
       "width": 600,
       "height": 70,
       "fontsize": 40
@@ -122,8 +122,8 @@
     },
     {
       "name": "btn7",
-      "content": "Manchester Air Pollution",
-      "value": "ManchesterAirPollution",
+      "content": "BT Apartment",
+      "value": "ApartmentBT",
       "margin": "32,750,0,0",
       "settings": "HTrack",
       "width": 600,
@@ -143,8 +143,8 @@
     },
     {
       "name": "btn9",
-      "content": "GEO QR Scanner",
-      "value": "QRMapAnalytics",
+      "content": "UoM Campus",
+      "value": "MANUni200",
       "margin": "32,910,0,0",
       "settings": "Static",
       "width": 600,
@@ -154,24 +154,14 @@
     },
     {
       "name": "btn10",
-      "content": "BT Apartment",
-      "value": "ApartmentBT",
+      "content": "GEO QR Scanner",
+      "value": "QRMapAnalytics",
       "margin": "32,990,0,0",
-      "settings": "HTrack",
-      "width": 600,
-      "height": 70,
-      "fontsize": 40
-      
-    },
-    {
-      "name": "btn11",
-      "content": "UoM Campus",
-      "value": "MANUni200",
-      "margin": "32,1070,0,0",
       "settings": "Static",
       "width": 600,
       "height": 70,
       "fontsize": 40
+      
     },
     {
       "name": "btn101",
