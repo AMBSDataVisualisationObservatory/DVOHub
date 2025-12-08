@@ -103,7 +103,7 @@
     {
       "name": "btn5",
       "content": "Autonomous Car - AI",
-      "value": "AIDEMO",
+      "value": "AIDemo",
       "margin": "32,590,0,0",
       "settings": "Static",
       "width": 600,
