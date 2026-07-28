@@ -167,7 +167,7 @@
       "name": "btn11",
       "content": "GEO QR Scanner",
       "value": "QRMapAnalytics",
-      "margin": "32,1050,0,0",
+      "margin": "32,1060,0,0",
       "settings": "Static",
       "width": 600,
       "height": 70,
