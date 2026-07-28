@@ -144,7 +144,7 @@
     {
       "name": "btn9",
       "content": "AI Powered Digital Twin",
-      "value": "PortOfDoverDigitalTwin2",
+      "value": "PortOfDoverDigitalTwin",
       "margin": "32,910,0,0",
       "settings": "Static",
       "width": 600,
