@@ -154,9 +154,20 @@
     },
     {
       "name": "btn10",
+      "content": "AI Powered Operational Twin",
+      "value": "DFDSDigitalTwin",
+      "margin": "32,990,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+      
+    },
+    {
+      "name": "btn11",
       "content": "GEO QR Scanner",
       "value": "QRMapAnalytics",
-      "margin": "32,990,0,0",
+      "margin": "32,1050,0,0",
       "settings": "Static",
       "width": 600,
       "height": 70,
