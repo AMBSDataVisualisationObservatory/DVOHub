@@ -153,6 +153,17 @@
       
     },
     {
+      "name": "btn10",
+      "content": "Site Monitoring DT",
+      "value": "DigitalTwinV2",
+      "margin": "32,990,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+      
+    },
+    {
       "name": "btn101",
       "content": "Exploratory Data Analytics",
       "value": "IVRTK_Demo",
