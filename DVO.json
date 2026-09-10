@@ -142,6 +142,17 @@
       
     },
     {
+      "name": "btn9",
+      "content": "Training Suite",
+      "value": "ASAHI_VR_Siote26",
+      "margin": "32,910,0,0",
+      "settings": "Static",
+      "width": 600,
+      "height": 70,
+      "fontsize": 40
+      
+    },
+    {
       "name": "btn101",
       "content": "Exploratory Data Analytics",
       "value": "IVRTK_Demo",
