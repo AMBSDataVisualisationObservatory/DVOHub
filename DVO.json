@@ -142,39 +142,6 @@
       
     },
     {
-      "name": "btn9",
-      "content": "AI Powered Digital Twin",
-      "value": "PortOfDoverDigitalTwin",
-      "margin": "32,910,0,0",
-      "settings": "Static",
-      "width": 600,
-      "height": 70,
-      "fontsize": 40
-      
-    },
-    {
-      "name": "btn10",
-      "content": "AI Powered Operational Twin",
-      "value": "DFDSDigitalTwin",
-      "margin": "32,990,0,0",
-      "settings": "Static",
-      "width": 600,
-      "height": 70,
-      "fontsize": 40
-      
-    },
-    {
-      "name": "btn11",
-      "content": "GEO QR Scanner",
-      "value": "QRMapAnalytics",
-      "margin": "32,1070,0,0",
-      "settings": "Static",
-      "width": 600,
-      "height": 70,
-      "fontsize": 40
-      
-    },
-    {
       "name": "btn101",
       "content": "Exploratory Data Analytics",
       "value": "IVRTK_Demo",
